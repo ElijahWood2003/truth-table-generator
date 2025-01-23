@@ -1,6 +1,4 @@
-import java.util.ArrayList;
 import java.util.Scanner;
-import java.lang.Math;
 
 /*
     TruthTable: Input of the given valid expressions with variables in a valid logic statement;
@@ -51,7 +49,7 @@ public class Main {
 
             }
         }
-        
+
         // closing the scanner
         input.close();
 
