@@ -57,5 +57,6 @@ public class Main {
 
         // printing the final truth table
         tt.printTable();
+        
     }
 }
